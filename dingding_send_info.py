@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: flySky
+# content  必须包含 业务告警(钉钉机器人发送时进行信息校验） 与钉钉中设置的值保持一致
 """
 import time
 import hmac
